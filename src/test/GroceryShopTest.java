@@ -1,3 +1,6 @@
+package test;
+
+import main.GroceryShop;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
