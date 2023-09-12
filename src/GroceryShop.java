@@ -39,6 +39,10 @@ public class GroceryShop {
     }
   }
 
+  public List<GroceryShop> getGroceryList() {
+    return groceryList;
+  }
+
   public int getItemId() {
     return itemId;
   }
